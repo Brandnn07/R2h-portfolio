@@ -1,0 +1,272 @@
+{
+    "basic_info": {
+      "description_header": "Greetings!",
+      "description": "👋 My name is Brandon Carter and I am a Full Stack Web Developer with a keen interest in back-end development and constructing innovative applications. Comfortable with full MERN stack among various other processes. Always looking towards honing my technical skills and working with others to achieve something greater than ourselves",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "eCommerce Project",
+        "startDate": "2022",
+        "description": "Tasked with creating an ecommerce site using React, I decided to construct a web application that was centered around luxury vehicles. The site is hosted using AWS amplify along with the backend info being launched via Heroku",
+        "images": [
+          "images/portfolio/ecom/ecom.png ",
+          "images/portfolio/ecom/products.png"
+        ],
+        "url": "https://main.d1jffceslmqaku.amplifyapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-amazonwebservices-plain",
+            "name": "AWS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "Game Secrets",
+        "startDate": "2021",
+        "description": "A project completed during my time at UNCC. A web forum for gamers to share secrets and easter eggs with one another, Game Secrets boast a sign-in feature, a comment feature, posting, searching for specific posts and the ability to edit your posts",
+        "images": [
+          "images/portfolio/gamesecrets/unknown.png",
+          "images/portfolio/gamesecrets/profile.png",
+          "images/portfolio/gamesecrets/search.png"
+        ],
+        "url": "http://game-secrets.herokuapp.com/login",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "S.T.A.Y",
+        "startDate": "2022",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/stay/stayhome.png",
+          "images/portfolio/stay/stayabout.png",
+          "images/portfolio/stay/stayshelters.png"
+        ],
+        "url": "https://main.d1xnzhidzyt1ns.amplifyapp.com/J-index.html",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }, {
+          "class": "devicon-google-plain",
+          "name": "Google APIs"
+        }
+        ]
+      },
+      {
+        "title": "Complex Redesign",
+        "startDate": "2022",
+        "description": "A project completed during my time at UNCC. A web forum for gamers to share secrets and easter eggs with one another, Game Secrets boast a sign-in feature, a comment feature, posting, searching for specific posts and the ability to edit your posts",
+        "images": [
+          "images/portfolio/complex/complexhome.png",
+          "images/portfolio/complex/complexshop.png",
+          "images/portfolio/complex/complexnav.png"
+        ],
+        "url": "http://complex-redesign.s3-website-us-east-1.amazonaws.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      }, 
+      {
+        "title": "CuPets",
+        "startDate": "2021",
+        "description": "Have you ever wanted a dating site centered around our wonderful pets? No? Well, we made it anyways! Sign up and make a profile with you and your pet(s) and find like-minded individuals",
+        "images": [
+          "images/portfolio/cupets/cupetslogin.png",
+          "images/portfolio/cupets/signup.png",
+          "images/portfolio/cupets/profile.png",
+          "images/portfolio/cupets/home.png"
+        ],
+        "url": "https://ancient-dawn-51222.herokuapp.com/login",
+        "technologies": [
+          {
+            "class": "devicon-handlebars-plain",
+            "name": "HandlebarsJS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      },
+      {
+        "title": "Workout Tracker",
+        "startDate": "2021",
+        "description": "An app that helps you plan your workouts and tracks your progress through any given time you want it to! Easy to use and uses an effective algorithm to keep track of everything, you can't go wrong!",
+        "images": [
+          "images/portfolio/workout/Screenshot3.png",
+          "images/portfolio/workout/Screenshot2.png"
+        ],
+        "url": "https://ancient-dawn-51222.herokuapp.com/login",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Road2Hire",
+        "title": "Apprentice",
+        "years": "4.2022 - present",
+        "mainTech": [
+          "Full-stack"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "Java",
+          "MongoDB",
+          "MySQL",
+          "ReactJS",
+          "AngularJS",
+          "NodeJS",
+          "Express"
+        ]
+      },
+      {
+        "company": "Mary's Watch",
+        "title": "Software Engineer",
+        "years": "05.2021 - 01.2022",
+        "mainTech": [
+          "Firebase"
+        ],
+        "technologies": [
+          "RxJS",
+          "MongoDB",
+          "Firebase",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "UNCC Coding Bootcamp",
+        "title": "Student",
+        "years": "01.2021 - 04.2021",
+        "mainTech": [
+          "Full-stack"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          ".NET Core",
+          "Java",
+          "MongoDB",
+          "MySQL",
+          "ReactJS",
+          "AngularJS",
+          "NodeJS",
+          "Express"
+        ]
+      }
+    ]
+  }
